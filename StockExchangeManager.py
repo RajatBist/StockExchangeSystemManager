@@ -21,7 +21,6 @@ Google_sh = 0
 
 CompanyShares = [Facebook_sh, Amazon_sh, Apple_sh, Netflix_sh, Google_sh]
 
-
 #volume
 Facebook_vol = 0
 Amazon_vol = 0
